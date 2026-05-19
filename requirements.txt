@@ -1,0 +1,10 @@
+pandas
+numpy
+geopandas
+matplotlib
+scipy
+scikit-learn
+catboost
+shapely
+geopy
+networkx
