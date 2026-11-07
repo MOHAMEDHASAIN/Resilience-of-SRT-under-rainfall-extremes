@@ -434,7 +434,7 @@ Murtugudde, R., & Ghosh, S.
 
 "Resilience of Megacity Rail Transit to Sub-Hourly Rainfall Extremes in Emerging Economies".
 
-Nature Cities (under review).
+Transportation Research Part D: Transport and Environment (under review).
 ```
 
 ---
